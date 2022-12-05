@@ -1,0 +1,5 @@
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\ATM Project\obj\Debug\net6.0\uygulama.csproj.AssemblyReference.cache
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\ATM Project\obj\Debug\net6.0\uygulama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\ATM Project\obj\Debug\net6.0\uygulama.AssemblyInfoInputs.cache
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\ATM Project\obj\Debug\net6.0\uygulama.AssemblyInfo.cs
+c:\Users\theco\OneDrive\Masaüstü\C# PROJECT\ATM Project\obj\Debug\net6.0\uygulama.csproj.CoreCompileInputs.cache
